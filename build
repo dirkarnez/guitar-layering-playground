@@ -1,0 +1,7 @@
+set PYTHONMAJOR=3.11
+set pythonLocation=C:\Python311
+
+cd thirdparty\libsamplerate
+cmake -DCMAKE_BUILD_TYPE=Release -Bbuild_release
+cmake --build build_release --config Release
+cd ..\..
