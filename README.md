@@ -18,3 +18,5 @@ guitar-layering-playground
 - Orange TH100
 - Dr. Scientist Reverberator
 - Electro-Harmonix Holy Grail
+- https://github.com/ctjhoa/hardware-analog-obsession
+- [Magic Frequencies for Mixing ELECTRIC GUITARS - YouTube](https://www.youtube.com/watch?v=xYK-GM3MPD8)
