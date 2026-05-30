@@ -23,4 +23,6 @@ guitar-layering-playground
 - [Magic Frequencies for Mixing ELECTRIC GUITARS - YouTube](https://www.youtube.com/watch?v=xYK-GM3MPD8)
 - [Download Free Lo-Fi effect plugin: Gramophony by Martinheterjag](https://plugins4free.com/plugin/3519)
 - [Download Free Overdrive stomp plugin: TS-999 by Ignite Amps](https://plugins4free.com/plugin/1002)
+- [Guitar Tone Tutorial: Linkin Park - The Emptiness Machine - YouTube](https://www.youtube.com/shorts/3s0aR_UljvA)
+- [Gaeta NU100 Protoype - Lying From You (Isolated Guitars) Cover - YouTube](https://www.youtube.com/watch?v=9lLOgnoO0oc)
 
