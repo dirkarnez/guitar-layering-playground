@@ -1,6 +1,7 @@
 guitar-layering-playground
 ==========================
 ### Plugins / Amps
+- My own DSP
 - Boss CS-3 Compressor
 - Ibanez LF-7 Lo Fi Filter
 - LA3A
@@ -20,3 +21,6 @@ guitar-layering-playground
 - Electro-Harmonix Holy Grail
 - https://github.com/ctjhoa/hardware-analog-obsession
 - [Magic Frequencies for Mixing ELECTRIC GUITARS - YouTube](https://www.youtube.com/watch?v=xYK-GM3MPD8)
+- [Download Free Lo-Fi effect plugin: Gramophony by Martinheterjag](https://plugins4free.com/plugin/3519)
+- [Download Free Overdrive stomp plugin: TS-999 by Ignite Amps](https://plugins4free.com/plugin/1002)
+
