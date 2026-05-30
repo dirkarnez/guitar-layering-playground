@@ -4,6 +4,7 @@ guitar-layering-playground
 - Boss CS-3 Compressor
 - Ibanez LF-7 Lo Fi Filter
 - LA3A
+- Chorus
 - https://www.patreon.com/posts/graphack-80663451
 - https://www.patreon.com/posts/american-bundle-55358141 (MERICA)
 - https://www.patreon.com/posts/rare-bundle-90832098
