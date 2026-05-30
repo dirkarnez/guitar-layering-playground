@@ -25,4 +25,5 @@ guitar-layering-playground
 - [Download Free Overdrive stomp plugin: TS-999 by Ignite Amps](https://plugins4free.com/plugin/1002)
 - [Guitar Tone Tutorial: Linkin Park - The Emptiness Machine - YouTube](https://www.youtube.com/shorts/3s0aR_UljvA)
 - [Gaeta NU100 Protoype - Lying From You (Isolated Guitars) Cover - YouTube](https://www.youtube.com/watch?v=9lLOgnoO0oc)
+- [Linkin Park METEORA guitar tone - AmpliTube 5 - YouTube](https://www.youtube.com/watch?v=NRujjqeV-Mk)
 
