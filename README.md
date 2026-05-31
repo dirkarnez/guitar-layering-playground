@@ -20,6 +20,14 @@ guitar-layering-playground
 - Dr. Scientist Reverberator
 - Electro-Harmonix Holy Grail
 - https://github.com/ctjhoa/hardware-analog-obsession
+
+### Tutorials
+- [My Approach to Guitar Layers - YouTube](https://www.youtube.com/watch?v=2Gv2ykCz7-U)
+- [How To Layer Heavy Guitars in a Rock Song with Bob Marlette - Warren Huart: Produce Like A Pro - YouTube](https://www.youtube.com/watch?v=RfnEDa5fREc)
+- [Make GUITARS Sound Huge in a Metal Mix - YouTube](https://www.youtube.com/watch?v=SJI12Bpeuzo)
+- [Make Your Guitar Riffs Sound HUGE at Home! - YouTube](https://www.youtube.com/watch?v=OYX7RIUPL2o)
+- [Reamping Different Guitar DI Signal Chains - YouTube](https://www.youtube.com/watch?v=pCgSkDfX0Io)
+- [If your guitars sound DEAD 💀 try this to make them RIP! 🔥 #mixingguitar #mixingtips #audioengineer - YouTube](https://www.youtube.com/shorts/MUf2V9sODkU)
 - [Magic Frequencies for Mixing ELECTRIC GUITARS - YouTube](https://www.youtube.com/watch?v=xYK-GM3MPD8)
 - [Download Free Lo-Fi effect plugin: Gramophony by Martinheterjag](https://plugins4free.com/plugin/3519)
 - [Download Free Overdrive stomp plugin: TS-999 by Ignite Amps](https://plugins4free.com/plugin/1002)
