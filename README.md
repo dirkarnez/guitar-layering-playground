@@ -2,6 +2,7 @@ guitar-layering-playground
 ==========================
 ### TODOs
 - [tone-3000/neural-amp-modeler-wasm: NAM DSP on the Web](https://github.com/tone-3000/neural-amp-modeler-wasm)
+- [linkin park NAM Profiles & IR's · TONE3000](https://www.tone3000.com/search?q=linkin+park)
 
 ### Plugins / Amps
 - My own DSP
